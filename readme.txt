@@ -1,5 +1,6 @@
-Hello, I'm a new line of text
+Hi, I'm a new line of text
 This is the second line of text
+This is the third line of text
 This is the fourth line of text
 Seems like the lines above are lying...
-Actually, the fourth one does tell the truth!
+The fourth one does tell the truth!
